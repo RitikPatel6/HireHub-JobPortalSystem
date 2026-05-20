@@ -1,4 +1,4 @@
-# Job_Portal
+# HireHub-JobPortalSystem
 
 Job_Portal is a web-based recruitment platform where job seekers can search and apply for jobs, employers can post job vacancies, and admin can manage users, companies, and job posts.
 
